@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/b6FNf6M/8cbf0b47-fd5f-4044-a133-56b6decadcfc.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HAROLDMTH"><img title="Author" src="https://i.ibb.co/b6FNf6M/8cbf0b47-fd5f-4044-a133-56b6decadcfc.jpg?style=for-the-badge&logo=github"></a>
 
   HANS-XMD is a Cool Multi-Device WhatsApp bot developed by [HANS TECH](https://github.com/HaroldMth). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
@@ -30,7 +30,7 @@
 
 ## `PAIR CODE FOR SESSION`
 
-<a href='https://web-vstsf.onrender.com' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://nnn-4mv7.onrender.com' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 #### NOW, UPLOAD YOUR CREDS.JSON FILE INSIDE SESSION FOLDER OF YOUR FORK
 
