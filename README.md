@@ -1,4 +1,4 @@
-# FIXED & UPDATED 🥰
+<a><strong>HANS XMD BOT</strong></a>
 
 
 <p align="center">
@@ -26,29 +26,20 @@
   
 ### Fork The Repo
 
-<a href="https://github.com/GlobalTechInfo/HANS-XMD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK HANS XMD-h?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/HaroldMth/HANS-XMD/fork"><img title="HANS XMD" src="https://img.shields.io/badge/FORK HANS XMD-h?color=red&style=for-the-badge&logo=stackshare"></a>
 
-## `Generate Pair Code For Session`
-
-### Watch Turtorial
-<a href="https://youtu.be/lsl636dr3yk"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/lsl636dr3yk" /><br>
-
+## `PAIR CODE FOR SESSION`
 
 <a href='https://web-vstsf.onrender.com' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-## ⬇️USING GIFTED PAIRING BECAUSE MINE NOT WORKING
-
-<a href='https://replit.com/@mouriceonyango0/Giftedv5-PairCode' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-#### NOW UPLOAD YOUR CREDS.JSON FILE INSIDE SESSION FOLDER OF YOUR FORK
+#### NOW, UPLOAD YOUR CREDS.JSON FILE INSIDE SESSION FOLDER OF YOUR FORK
 
 # 🛟 `Deployments`
 
-## Watch Tutorial For Hosting Panel
-<a href="https://youtu.be/WpfdClSeQyg"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+
 
 ### BOT HOSTING PANEL
-<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
+<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Deploy to Panle'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
 
