@@ -4,20 +4,20 @@
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/b6FNf6M/8cbf0b47-fd5f-4044-a133-56b6decadcfc.jpg?style=for-the-badge&logo=github"></a>
 
-GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](https://github.com/GlobalTechInfo). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+  HANS-XMD is a Cool Multi-Device WhatsApp bot developed by [HANS TECH](https://github.com/HaroldMth). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{GLOBAL-MD}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
 
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=red&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/GLOBAL-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Qasim%20Ali-red?v=103"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGlobalTechInfo%2FGLOBAL-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Haroldmth/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=red&style=flat-square"></a>
+<a href="https://github.com/Haroldmth/HANS-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Haroldmth/HANS-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Haroldmth/HANS-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/GLOBAL-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.comb/Haroldmth/HANS-XMD"><img title="Open Source" src="https://img.shields.io/badge/Author-Qasim%20Ali-red?v=103"></a>
+<a href="https://github.com/HaroldmthO/HANS-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaroldmth%2FHans-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Haroldmth/HANS-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -26,7 +26,7 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
   
 ### Fork The Repo
 
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-GLOBAL MD-h?color=red&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/GlobalTechInfo/HANS-XMD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK HANS XMD-h?color=red&style=for-the-badge&logo=stackshare"></a>
 
 ## `Generate Pair Code For Session`
 
