@@ -17213,7 +17213,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'allmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -17854,7 +17854,9 @@ let xmenu_oh = `
 │${setv} ${prefix}q 🅕
 │${setv} ${prefix}inspect 🅕
 │${setv} ${prefix}tagme 🅕
-╰──────⊡`
+╰──────⊡
+HANS XMD BY HANS TECH 😗✌️
+`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         image: fs.readFileSync('./XeonMedia/theme/cheemspic.jpg'),
@@ -18011,15 +18013,15 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@HansTech0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/Hans-Tech2\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HaroldMth\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
@@ -18122,7 +18124,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18221,11 +18223,11 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HaroldMth\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQjOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -18252,7 +18254,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'ownermenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -18609,7 +18611,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMDMENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18700,19 +18702,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HaroldMth\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOjC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -18739,7 +18741,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'groupmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -18965,19 +18967,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HAROLDMTH\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PjXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -19019,15 +19021,15 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/HansTech0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Haroldmth\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1jiZK\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -19076,7 +19078,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19167,19 +19169,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HAROLDMTH\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQJOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
 	     }
            ],
           }),
@@ -19206,7 +19208,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'searchmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *GABS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -19386,19 +19388,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/HANSTECH0\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/HAROLDMTH\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOJI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -19497,7 +19499,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19627,7 +19629,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'downloadmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -19932,7 +19934,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -20062,7 +20064,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'toolmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -20388,7 +20390,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -20518,7 +20520,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'listmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -20809,7 +20811,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -20939,7 +20941,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'randomphotomenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -21275,7 +21277,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21405,7 +21407,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'randomvideomenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -21692,7 +21694,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21822,7 +21824,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'stalkermenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -22105,7 +22107,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22235,7 +22237,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'aimenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -22533,7 +22535,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22663,7 +22665,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'gamemenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -22956,7 +22958,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23086,7 +23088,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'funmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -23429,7 +23431,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23559,7 +23561,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'stickermenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -23845,7 +23847,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23975,7 +23977,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'animemenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -24389,7 +24391,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24519,7 +24521,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'nsfwmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -24812,7 +24814,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24942,7 +24944,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'databasemenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -25229,7 +25231,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25359,7 +25361,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'storemenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -25647,7 +25649,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25777,7 +25779,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'religionmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -26059,7 +26061,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26189,7 +26191,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'bugmenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -26477,7 +26479,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26607,7 +26609,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
 break
 case 'othermenu': {
 let xmenu_oh = `
-╭──⊡「 *GREETING* 」⊡
+╭──⊡「 *HANS XMD* 」⊡
 ├${setv} *Hi 👋*
 ├${setv} *${m.pushName}* 
 ├${setv} *${xeonytimewisher} 🥰* 
@@ -26902,7 +26904,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"HANS XMD",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
