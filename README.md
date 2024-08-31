@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://telegra.ph/file/78899ccfed9d3ec2fee61.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/b6FNf6M/8cbf0b47-fd5f-4044-a133-56b6decadcfc.jpg?style=for-the-badge&logo=github"></a>
 
 GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](https://github.com/GlobalTechInfo). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
