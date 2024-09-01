@@ -1,4 +1,4 @@
-<a><strong>HANS XMD BOT</strong></a>
+<center><a><strong>HANS XMD BOT</strong></a>
 
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 
 ### BOT HOSTING PANEL
-<a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Deploy to Panle'
+<a href='https://bot-hosting.net/?aff=1117072269395632178' target="_blank"><img alt='Deploy to Panle'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
 
