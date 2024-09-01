@@ -1,4 +1,4 @@
-<center><a><strong>HANS XMD BOT</strong></a>
+<center><a><strong>HANS XMD BOT</strong></a></center>
 
 
 <p align="center">
