@@ -915,7 +915,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: botname,
 body: ownername,
-thumbnailUrl: 'https://telegra.ph/file/f6119ab1993a2d875843a.jpg',
+thumbnailUrl: 'https://th.bing.com/th/id/OIG3.op7CQlt1Gi5v96Fr2Lzn?pid=ImgGn',
 sourceUrl: websitex
 },
 },
@@ -8909,7 +8909,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
     break
     case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 let me = m.sender
-let teks = `*「  ${global.botname} Script 」*\n\nYouTube: ${global.websitex}\nGitHub: ${global.botscript}\n\nHi @${me.split('@')[0]} 👋\nDont forget to donate yeah🍜 👇 https://telegra.ph/file/f6119ab1993a2d875843a.jpg`
+let teks = `*「  ${global.botname} Script 」*\n\nYouTube: Https://youtube.com/haroldmth\nGitHub: https://github.com/HaroldMth/hans-xmd\n\nHi @${me.split('@')[0]} 👋\nDont forget to donate yeah🍜 👇 https://th.bing.com/th/id/OIG3.op7CQlt1Gi5v96Fr2Lzn?pid=ImgGn`
 sendXeonBotIncMessage(m.chat, { 
 text: teks,
 mentions:[sender],
@@ -8982,7 +8982,7 @@ case 'runtime': {
 			}
 			break
 case 'ghstalk': case 'githubstalk':{
-if (!q) return replygcxeon(`Example ${prefix+command} Qasim`)
+if (!q) return replygcxeon(`Example ${prefix+command} haroldmth`)
 await XeonStickWait()
 let githubstalk = require('./lib/scraper')
 aj = await githubstalk.githubstalk(`${q}`)
@@ -10052,7 +10052,8 @@ let msgs = generateWAMessageFromContent(m.chat, {
 return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
 }
 break
-			case 'translate':{
+			case 'translate':
+			case 'trt':{
   	if (!q) return replygcxeon(`*Where is the text*\n\n*𝙴xample usage*\n*${prefix + command} <language id> <text>*\n*${prefix + command} ja yo wassup*`)
   	const defaultLang = 'en'
 const tld = 'cn'
@@ -10886,7 +10887,7 @@ XeonBotInc.sendMessage(m.chat, {text: `Here @${teman.split("@")[0]}`, mentions: 
 }
 break
             case 'wanumber': case 'nowa': case 'searchno': case 'searchnumber':{
-           	if (!text) return replygcxeon(`Provide Number with last number x\n\nExample: ${prefix + command} 92344484406x`)
+           	if (!text) return replygcxeon(`Provide Number with last number x\n\nExample: ${prefix + command} 23769690xxxxx`)
 var inputnumber = text.split(" ")[0]
         
         replygcxeon(`Searching for WhatsApp account in given range...`)
@@ -14200,7 +14201,7 @@ break
                                 showAdAttribution: true,
                                 title: botname,
                                 body: `Sent in ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/f6119ab1993a2d875843a.jpg',
+                                thumbnailUrl: 'https://th.bing.com/th/id/OIG3.op7CQlt1Gi5v96Fr2Lzn?pid=ImgGnhttps://th.bing.com/th/id/OIG3.op7CQlt1Gi5v96Fr2Lzn?pid=ImgGn',
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
