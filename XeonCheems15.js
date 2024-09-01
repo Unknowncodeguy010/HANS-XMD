@@ -1812,9 +1812,9 @@ break
         `Susbcribe Developer's YouTube Channel To Get Updates`, // Body message
         botname, // Footer message
         'Visit', // Button display text
-        'https://youtube.com/@GlobalTechInfo', // Command (URL in this case)
+        'https://youtube.com/@hanstech0', // Command (URL in this case)
         'cta_url', // Button type
-        'https://youtube.com/@GlobalTechInfo' // URL (used in image generation)
+        'https://youtube.com/@hanstech0' // URL (used in image generation)
     ], 
     [
         'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png', // Image URL
@@ -1822,9 +1822,9 @@ break
         `Susbcribe Developer's Telegram Channel To Get Updates`, // Body message
         botname, // Footer message
         'Visit', // Button display text
-        'http://t.me/GlobalTechInc', // Command (URL in this case)
+        'http://t.me/hanstech0', // Command (URL in this case)
         'cta_url', // Button type
-        'http://t.me/GlobalTechInc' // URL (used in image generation)
+        'http://t.me/hanstech0' // URL (used in image generation)
     ], 
     [
         'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/360px-GitHub_Invertocat_Logo.svg.png', // Image URL
@@ -1832,9 +1832,9 @@ break
         `Follow Developer On GitHub`, // Body message
         botname, // Footer message
         'Visit', // Button display text
-        'https://github.com/GlobalTechInfo', // Command (URL in this case)
+        'https://github.com/haroldmth', // Command (URL in this case)
         'cta_url', // Button type
-        'https://github.com/GlobalTechInfo' // URL (used in image generation)
+        'https://github.com/haroldmth' // URL (used in image generation)
     ], 
     [
         'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png', // Image URL
@@ -1852,9 +1852,9 @@ break
         `Contact Developer On WhatsApp`, // Body message
         botname, // Footer message
         'Visit', // Button display text
-        'https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK', // Command (URL in this case)
+        'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O', // Command (URL in this case)
         'cta_url', // Button type
-        'https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK' // URL (used in image generation)
+        'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O' // URL (used in image generation)
     ], 
 ];
 
