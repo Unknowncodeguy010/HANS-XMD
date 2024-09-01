@@ -1,5 +1,8 @@
-<center><a><strong>HANS XMD BOT</strong></a></center>
+<center><a class="title"><strong>HANS XMD BOT</strong></a></center>
 
+.title {
+  text-align: center;
+}
 
 <p align="center">
 <a href="https://github.com/HAROLDMTH"><img title="Author" src="https://i.ibb.co/b6FNf6M/8cbf0b47-fd5f-4044-a133-56b6decadcfc.jpg?style=for-the-badge&logo=github"></a>
