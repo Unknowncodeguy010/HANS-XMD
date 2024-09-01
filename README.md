@@ -1,4 +1,4 @@
-<center><a class="title"><strong>HANS XMD BOT</strong></a></center>
+<center><a align="center"><strong>HANS XMD BOT</strong></a></center>
 <style>
 .title {
   text-align: center;
